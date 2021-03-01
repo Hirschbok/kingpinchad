@@ -1,0 +1,12 @@
+{
+  "inject_sound": {
+    "category": "item",
+    "subtitle": "inject_sound.sub",
+    "sounds": [
+      {
+        "name": "kingpin:item/inject_sound",
+        "stream": true
+      }
+    ]
+  }
+}

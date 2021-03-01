@@ -1,0 +1,10 @@
+{
+  "item.kingpin.syringe": "Syringe",
+  "item.kingpin.marijuana_leaf": "Marijuana Leaf",
+  "block.kingpin.marijuana": "Marijuana Seeds",
+  "item.kingpin.dried_marijuana_nugget": "Dried Marijuana Nugget",
+  "item.kingpin.poppy_resin":  "Poppy Resin",
+
+  "inject_sound": "Inject Sound",
+  "inject_sound.sub": "Injection Squelch"
+}

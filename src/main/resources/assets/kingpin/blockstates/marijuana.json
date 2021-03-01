@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "age=0": { "model":  "kingpin:crop/marijuana/marijuana0" },
+    "age=1": { "model":  "kingpin:crop/marijuana/marijuana1" },
+    "age=2": { "model":  "kingpin:crop/marijuana/marijuana2" },
+    "age=3": { "model":  "kingpin:crop/marijuana/marijuana3" },
+    "age=4": { "model":  "kingpin:crop/marijuana/marijuana4" },
+    "age=5": { "model":  "kingpin:crop/marijuana/marijuana5" },
+    "age=6": { "model":  "kingpin:crop/marijuana/marijuana6" },
+    "age=7": { "model":  "kingpin:crop/marijuana/marijuana7" }
+  }
+}

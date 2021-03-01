@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "kingpin:marijuana_leaf"
+  },
+  "result": "kingpin:dried_marijuana_nugget",
+  "experience": 1.0,
+  "cookingtime": 100
+}
