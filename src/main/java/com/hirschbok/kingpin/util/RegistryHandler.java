@@ -5,6 +5,7 @@ import com.hirschbok.kingpin.crops.marijuanaCrop;
 import com.hirschbok.kingpin.items.driedMarijuanaNugget;
 import com.hirschbok.kingpin.items.marijuanaLeaf;
 import com.hirschbok.kingpin.items.poppyResin;
+import con.hirschbok.kingpin.items.poppySeeds;
 import com.hirschbok.kingpin.items.syringe;
 import com.hirschbok.kingpin.kingpin;
 import net.minecraft.block.AbstractBlock;
@@ -36,6 +37,7 @@ public class RegistryHandler {
     public static final RegistryObject<Item> MARIJUANA_LEAF = ITEMS.register("marijuana_leaf", marijuanaLeaf::new);
     public static final RegistryObject<Item> DRIED_MARIJUANA_NUGGET = ITEMS.register("dried_marijuana_nugget", driedMarijuanaNugget::new);
     public static final RegistryObject<Item> POPPY_RESIN = ITEMS.register("poppy_resin", poppyResin::new);
+    public static final RegistryObject<Item> POPPY_SEEDS = ITEMS.register("poppy_seeds", poppySeeds::new);
 
     // SOUNDS
     public static final RegistryObject<SoundEvent> INJECT_SOUND = SOUNDS.register
